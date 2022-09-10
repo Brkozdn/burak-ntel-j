@@ -12,6 +12,7 @@ public class ozellik1 {
 
         System.out.println("ozellik cakısma");
         System.out.println("cakısma özzelligini test ediyorum");
+        System.out.println("fatıma değişiklik yaptı");
 
     }
 }
