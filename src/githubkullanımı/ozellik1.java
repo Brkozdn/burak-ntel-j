@@ -27,6 +27,11 @@ public class ozellik1 {
 
         System.out.println("ortak çakışma burak");
 
+        System.out.println("fat degişt");
+        System.out.println("fat degişt");
+
+        System.out.println("fat son değiştirdi");
+
 
     }
 }
