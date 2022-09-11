@@ -19,5 +19,9 @@ public class ozellik1 {
         System.out.println("niye snirlenip duruyorsun");
         System.out.println("üf püf");
 
+
+
+
+        System.out.println("çakışma main");
     }
 }
