@@ -22,6 +22,11 @@ public class ozellik1 {
 
 
 
+
         System.out.println("çakışma main");
+
+        System.out.println("ortak çakışma burak");
+
+
     }
 }
